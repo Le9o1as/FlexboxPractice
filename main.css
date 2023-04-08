@@ -1,0 +1,37 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* .flex-container{
+  border: 10px solid #7f00ff;
+} */
+
+.flex-item{
+  padding: 10px;
+  font: 900 60px "Roboto", sans-serif;
+  color: #fff;
+  text-align: center;
+  text-shadow: 4px 2px 0 rgba(0, 0, 0, 0.2);
+}
+
+.item-1{
+  background: rgb(240, 41, 41);
+}
+
+.item-2{
+  background: rgb(240, 137, 68);
+}
+
+.item-3{
+  background: rgb(231, 231, 79);
+}
+
+.item-4{
+  background: rgb(117, 241, 44);
+}
+
+.item-5{
+  background: rgb(83, 235, 227);
+}
